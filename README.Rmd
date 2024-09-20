@@ -29,7 +29,6 @@ Keegan: I've already used Git before, but adding the repository to RStudio was v
 
 Nick: I got everything set up pretty easy
 
-Nick: I didn't wind up running into any errors - I already had git and RStudio set up earlier this week, but I did have some small trouble finding the UI options for git within RStudio
 Nick: I didn't wind up running into any errors - I already had git and RStudio set up earlier this week, but I did have some small trouble finding the UI options for git within RStudio.
 
 Nick: I think we were meant to run into merge conflicts? Either we managed our pulls/pushes very well or got very lucky and didn't run into anything that wasn't very easy to solve.
