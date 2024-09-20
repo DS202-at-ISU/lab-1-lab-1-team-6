@@ -17,8 +17,11 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This is a line added by Keegan This is a line added by Simeon from
-RStudio
+------------------------------------------------------------------------
+
+This is a line added by Keegan
+
+This is a line added by Simeon from RStudio
 
 This is a line added by Nick from RStudio
 
@@ -37,3 +40,8 @@ finding the UI options for git within RStudio.
 Nick: I think we were meant to run into merge conflicts? Either we
 managed our pulls/pushes very well or got very lucky and didn’t run into
 anything that wasn’t very easy to solve.
+
+Nick: Oh ok. I messed around with this file a bit more after class and
+knitted to the .md per specs and got some conflicts when committing. Git
+seemed to do a good enough job of selecting sections to add or delete so
+it really didn’t need much from me.
