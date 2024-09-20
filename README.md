@@ -33,19 +33,19 @@ RStudio was very simple. Then committing/pushing was also seamless.
 
 Nick: I got everything set up pretty easy
 
-Nick: I didn’t wind up running into any errors - I already had git and
+I didn’t wind up running into any errors in class- I already had git and
 RStudio set up earlier this week, but I did have some small trouble
 finding the UI options for git within RStudio.
 
-Nick: I think we were meant to run into merge conflicts? Either we
-managed our pulls/pushes very well or got very lucky and didn’t run into
-anything that wasn’t very easy to solve.
-
-Nick: Oh ok. I messed around with this file a bit more after class and
+After class I messed around with this file a bit more after class and
 knitted to the .md per specs and got some conflicts when committing. Git
-seemed to do a good enough job of selecting sections to add or delete so
-it really didn’t need much from me.
+mostly seemed to do a good enough job of selecting sections to add or
+delete so it really didn’t need much from me - except for the one where
+I needed to pull before pushing and I wound up having to revert
+something but I didn’t have to redo any work somehow. (I’m not exactly
+sure what went on there.)
 
-Nick: Ran into the issue that Github doesn’t automatically change my
-email when I change accounts, so I’ve got several commits made under my
-non-school account now (FancyEveryDay).
+While doing this I also ran into the issue that Github doesn’t
+automatically update my email when committing, so I now own several
+commits under my non-school account (FancyEveryDay) but fixed it for the
+last couple commits.
