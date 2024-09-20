@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -18,7 +17,23 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This is a line added by Keegan
-This is a line added by Simeon from RStudio
+This is a line added by Keegan This is a line added by Simeon from
+RStudio
 
 This is a line added by Nick from RStudio
+
+Simeon: It went smoothly and we had no problems with anything involving
+Git or RStudio.
+
+Keegan: I’ve already used Git before, but adding the repository to
+RStudio was very simple. Then committing/pushing was also seamless.
+
+Nick: I got everything set up pretty easy
+
+Nick: I didn’t wind up running into any errors - I already had git and
+RStudio set up earlier this week, but I did have some small trouble
+finding the UI options for git within RStudio.
+
+Nick: I think we were meant to run into merge conflicts? Either we
+managed our pulls/pushes very well or got very lucky and didn’t run into
+anything that wasn’t very easy to solve.
