@@ -45,3 +45,7 @@ Nick: Oh ok. I messed around with this file a bit more after class and
 knitted to the .md per specs and got some conflicts when committing. Git
 seemed to do a good enough job of selecting sections to add or delete so
 it really didn’t need much from me.
+
+Nick: Ran into the issue that Github doesn’t automatically change my
+email when I change accounts, so I’ve got several commits made under my
+non-school account now (FancyEveryDay).
