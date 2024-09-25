@@ -38,3 +38,11 @@ I didn't wind up running into any errors in class- I already had git and RStudio
 After class I messed around with this file a bit more after class and knitted to the .md per specs and got some conflicts when committing. Git mostly seemed to do a good enough job of selecting sections to add or delete so it really didn't need much from me - except for the one where I needed to pull before pushing and I wound up having to revert something but I didn't have to redo any work somehow. (I'm not exactly sure what went on there.) 
 
 While doing this I also ran into the issue that Github doesn't automatically update my email when committing, so I now own several commits under my non-school account (FancyEveryDay) but fixed it for the last couple commits.
+
+
+test
+comments
+command
+
+
+

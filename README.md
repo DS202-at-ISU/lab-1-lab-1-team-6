@@ -19,6 +19,8 @@ you are done with your submission.
 
 ------------------------------------------------------------------------
 
+This is a line added by Emmet
+
 This is a line added by Keegan
 
 This is a line added by Simeon from RStudio
@@ -49,3 +51,5 @@ While doing this I also ran into the issue that Github doesn’t
 automatically update my email when committing, so I now own several
 commits under my non-school account (FancyEveryDay) but fixed it for the
 last couple commits.
+
+test comments command
